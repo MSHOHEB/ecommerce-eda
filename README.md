@@ -27,13 +27,15 @@ A complete **Exploratory Data Analysis** project on Indian e-commerce sales data
 ---
 
 ## 📁 Project Structure
-ecommerce-eda/
-├── ecommerce_data.csv       # Dataset (5000 orders)
-├── eda_analysis.py          # Full EDA script
-├── generate_data.py         # Dataset generator
-├── EDA_Notebook.ipynb       # Jupyter Notebook
-├── requirements.txt         # Dependencies
-└── charts/                  # All visualizations
+
+| File | Description |
+|------|-------------|
+| `ecommerce_data.csv` | Dataset (5000 orders) |
+| `eda_analysis.py` | Full EDA script |
+| `generate_data.py` | Dataset generator |
+| `EDA_Notebook.ipynb` | Jupyter Notebook |
+| `requirements.txt` | Dependencies |
+| `charts/` | All visualizations |             # All visualizations
 
 
 ---
