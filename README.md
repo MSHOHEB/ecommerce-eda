@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.13-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-A complete **Exploratory Data Analysis** project on Indian e-commerce sales data (5000 orders, 2022–2023).
+A complete **Exploratory Data Analysis** project on Indian e-commerce sales data.
 
 ---
 
@@ -18,11 +18,11 @@ A complete **Exploratory Data Analysis** project on Indian e-commerce sales data
 | 🛒 Total Orders | 5,000 |
 | 💵 Avg Order Value | ₹10,924 |
 | 👥 Unique Customers | 2,439 |
-| ⭐ Avg Customer Rating | 4.16 / 5.0 |
+| ⭐ Avg Rating | 4.16 / 5.0 |
 | 🚚 Avg Delivery Time | ~5 days |
 | 📦 Delivery Rate | 78.2% |
 | 🏆 Top Category | Electronics |
-| 💳 Most Used Payment | UPI (35%) |
+| 💳 Top Payment | UPI (35%) |
 
 ---
 
@@ -30,13 +30,12 @@ A complete **Exploratory Data Analysis** project on Indian e-commerce sales data
 
 | File | Description |
 |------|-------------|
-| `ecommerce_data.csv` | Dataset (5000 orders) |
-| `eda_analysis.py` | Full EDA script |
-| `generate_data.py` | Dataset generator |
+| `ecommerce_data.csv` | Dataset with 5000 orders |
+| `eda_analysis.py` | Full EDA Python script |
+| `generate_data.py` | Dataset generator script |
 | `EDA_Notebook.ipynb` | Jupyter Notebook |
-| `requirements.txt` | Dependencies |
-| `charts/` | All visualizations |             # All visualizations
-
+| `requirements.txt` | Python dependencies |
+| `charts/` | All 6 visualizations |
 
 ---
 
@@ -55,12 +54,10 @@ A complete **Exploratory Data Analysis** project on Indian e-commerce sales data
 
 ## 🚀 How to Run
 
-```bash
-git clone https://github.com/MSHOHEB/ecommerce-eda.git
-cd ecommerce-eda
-pip install -r requirements.txt
-python eda_analysis.py
-```
+    git clone https://github.com/MSHOHEB/ecommerce-eda.git
+    cd ecommerce-eda
+    pip install -r requirements.txt
+    python eda_analysis.py
 
 ---
 
@@ -73,7 +70,4 @@ python eda_analysis.py
 - **Jupyter Notebook** — Interactive analysis
 
 ---
-
-
-
 
