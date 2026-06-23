@@ -70,4 +70,22 @@ A complete **Exploratory Data Analysis** project on Indian e-commerce sales data
 - **Jupyter Notebook** — Interactive analysis
 
 ---
+## 📊 Charts & Visualizations
 
+### 1. Overview Dashboard
+![Overview](01_overview_dashboard.png)
+
+### 2. Product & Category Analysis
+![Category](02_product_category_analysis.png)
+
+### 3. Customer Behaviour
+![Customer](03_customer_behaviour.png)
+
+### 4. Discount Analysis
+![Discount](04_discount_analysis.png)
+
+### 5. Geographical Analysis
+![Geo](05_geo_analysis.png)
+
+### 6. Correlation Heatmap
+![Heatmap](06_correlation_heatmap.png)
